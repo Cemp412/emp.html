@@ -1,0 +1,47 @@
+.main{
+	border: 3px solid;
+	height: 1500px;
+	width: 1300px;
+}
+.a{
+	border:2px solid;
+	width: 1299px;
+	height:120px;
+    background-color: chocolate; 
+}
+
+.header{
+	border:2px solid;
+height:120px;
+	width: 1299px;
+background-color:#b6d5e0;
+}
+
+.footer{
+		border:2px solid;
+height:495px;
+	width: 1299px;
+}
+
+.Part1{
+		border:2px solid;
+height:300px;
+	width: 1299px;
+}
+
+.Part2{
+		border:2px solid;
+height:300px;
+	width: 1299px;
+}
+
+.Part3{
+border:2px solid;
+height:300px;
+	width: 1299px;
+}
+.slider{
+		border:2px solid;
+height:200px;
+	width: 1299px;
+}
