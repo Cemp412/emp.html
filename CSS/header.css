@@ -1,0 +1,23 @@
+.a{
+border:2px solid; 
+height: 150px; 
+    width: 1325px;
+    margin-left: 5px;
+    background-color: blueviolet;
+}
+
+ul li{
+	display: inline-block;
+	background-color: black;
+	color: white;
+    font-weight: bold;
+    line-height:73px; 
+    height:73px;
+	font-size:40px;
+	width: 200px;
+	font-size: 20px;
+	text-align: center;
+	margin-left: 3px;
+
+}
+
