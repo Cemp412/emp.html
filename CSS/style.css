@@ -1,12 +1,12 @@
 .main{
 	border: 3px solid;
-	height: 1500px;
+	height: 2050px;
 	width: 1300px;
 }
 .a{
 	border:2px solid;
 	width: 1299px;
-	height:120px;
+	height:220px;
     background-color: chocolate; 
 }
 
@@ -19,7 +19,7 @@ background-color:#b6d5e0;
 
 .footer{
 		border:2px solid;
-height:495px;
+height:587px;
 	width: 1299px;
 }
 
@@ -44,4 +44,21 @@ height:300px;
 		border:2px solid;
 height:200px;
 	width: 1299px;
+}
+ul li{
+float: left; 
+font-size:20px;
+display: inline-block;
+background-color: black;
+color: white;
+font-weight: bold;
+line-height:73px; 
+height:73px;
+width: 200px;
+text-align: center;
+margin-left:100px;
+
+}
+
+
 }
